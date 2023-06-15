@@ -12,6 +12,9 @@
 * <b>Language:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height=50/> Oracle VirtualBox 
           
 
+* <b>Date Created :</b> Innovative Project
+
+* <b> Subject :</b> Operating System
 
 * <b>Date Created :</b> November 2020
 
@@ -66,4 +69,32 @@ Case 3: Both users answer incorrectly
 ![image](https://github.com/ruchi961/Linux-Multiplayer-Quiz/assets/128241982/77eace40-4ca4-4811-9e16-721cd950e97e)
 
 
+*_ Demo video for the implementation of the project _*
 
+
+## > Prerequst to run
+**Linux Systems must be connected in LAN in the virtualbox. (with Bridge Connection or any other connection so their IP are in the one network) **
+
+
+## > Run
+
+* Linux Machine Terminal
+```
+cd to_python_files
+```
+
+```
+python3 Peer1Player1Machine1.py
+```
+
+
+* Another Linux Machine's Terminal
+```
+python3 Peer1Player1Machine1.py
+``````
+cd to_python_files
+```
+
+```
+python3 Peer1Player1Machine1.py
+```
