@@ -28,13 +28,13 @@
   *  Communication betwen multiple Linux Virtual Machines
 
 
-## > Package
+## > Packages
 * sys
 * socket
 * time
 * threading
 
-## > Install Package (Dependency)
+## > Install Packages (Dependencies)
 ```
 cd to_Scripts
 ```
@@ -90,11 +90,9 @@ python3 Peer1Player1Machine1.py
 
 * Another Linux Machine's Terminal
 ```
-python3 Peer1Player1Machine1.py
-``````
 cd to_python_files
 ```
 
 ```
-python3 Peer1Player1Machine1.py
+python3 Peer2Player2Machine2.py
 ```
