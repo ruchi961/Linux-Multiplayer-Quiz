@@ -57,15 +57,15 @@ Users are connected
 ![image](https://github.com/ruchi961/Linux-Multiplayer-Quiz/assets/128241982/274cd18a-59e5-4f00-be69-54d616c3c2c3)
 
 
-Case 1: One user with incorrect and other with correct answer
+Case 1: One user with incorrect and other with a correct answer.
 ![image](https://github.com/ruchi961/Linux-Multiplayer-Quiz/assets/128241982/1f593699-0e96-4778-bad2-797fe26e3139)
 
 
-Case 2: Both user answer correctly. User with less time wins.
+Case 2: Both the users answer correctly. User with less time wins.
 ![image](https://github.com/ruchi961/Linux-Multiplayer-Quiz/assets/128241982/4c67a092-d02d-4dd4-8dfd-1f09b048c3c1)
 
 
-Case 3: Both users answer incorrectly
+Case 3: Both the users answer incorrectly.
 ![image](https://github.com/ruchi961/Linux-Multiplayer-Quiz/assets/128241982/77eace40-4ca4-4811-9e16-721cd950e97e)
 
 
